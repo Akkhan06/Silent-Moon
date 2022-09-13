@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Silent Moon</string>
+    <string name="or">ALREADY HAVE AN ACCOUNT? </string>
+    <string name="or_login"> LOG IN </string>
+
+
+    //checkbox======
+
+    <style name="checkbox" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorControlNormal">#A1A4B2</item>
+    </style>
+
+</resources>
